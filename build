@@ -1,0 +1,3 @@
+#!/bin/sh
+
+docker build --no-cache --rm -t 'wanghy6503/centos7:latest' .

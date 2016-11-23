@@ -1,0 +1,3 @@
+#!/bin/sh
+
+docker run -it --rm wanghy6503/centos7:latest /bin/bash
